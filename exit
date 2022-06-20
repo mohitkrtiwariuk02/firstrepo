@@ -1,0 +1,42 @@
+[33mcommit d82a23463f6fe7b0261954b1e6852df4b6e92965[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mohit Tiwari <Mohit@webkul.com>
+Date:   Fri Jun 17 08:10:36 2022 +0000
+
+    simple
+
+[33mcommit 5d0396c1e44ecc39b442c8f41067dbab92346ced[m[33m ([m[1;32mtest2[m[33m)[m
+Author: Mohit Tiwari <Mohit@webkul.com>
+Date:   Fri Jun 17 08:02:19 2022 +0000
+
+    from the test branch
+
+[33mcommit dce92d732b0f4dc647bcae8caa8d797539ee4e77[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: f01ac2d 9b8b516
+Author: Mohit Tiwari <Mohit@webkul.com>
+Date:   Thu Jun 16 12:48:24 2022 +0000
+
+    5th commit from the terminal
+
+[33mcommit 9b8b5165ddb16c408a5d041823ff4a6667898f04[m
+Author: mohitkrtiwariuk02 <107617778+mohitkrtiwariuk02@users.noreply.github.com>
+Date:   Thu Jun 16 18:10:37 2022 +0530
+
+    4th time change from github
+
+[33mcommit f01ac2d5efa0f5baab2544430581f5447d521c18[m
+Author: Mohit Tiwari <Mohit@webkul.com>
+Date:   Thu Jun 16 12:39:00 2022 +0000
+
+    third commit
+
+[33mcommit 0ede0a8d3560d7de0269b6b41ecccef4baa64477[m
+Author: mohitkrtiwariuk02 <107617778+mohitkrtiwariuk02@users.noreply.github.com>
+Date:   Thu Jun 16 18:00:39 2022 +0530
+
+    Update file1
+
+[33mcommit dae85bacd0ae26d6f3649e3fd4dcc3ec79f698bc[m
+Author: root <root@ip-172-31-38-37.ap-south-1.compute.internal>
+Date:   Thu Jun 16 11:33:13 2022 +0000
+
+    This is my first commit
